@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ycanerden
 - 👀 I’m interested in low-code and vibe coding without coding :)
-- 🌱 I’m currently learning to utilize low-code + claude code capabilities
-- 📫 How to reach me @ycanerden (X) 
+- 🌱 I’m currently learning to utilize loveable + claude code capabilities
 
 <!---
 ycanerden/ycanerden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
