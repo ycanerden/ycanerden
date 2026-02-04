@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ycanerden
 - 👀 I’m interested in low-code and vibe coding without coding :)
-- 🌱 I’m currently learning to utilize loveable + claude code capabilities
+- 🌱 I’m currently learning to utilize loveable + claude + antigravity 
 
 <!---
 ycanerden/ycanerden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
