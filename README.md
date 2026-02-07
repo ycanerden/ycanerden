@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ycanerden
-- 👀 I’m interested in low-code and vibe coding without coding :)
+- 👀 I’m interested in vibe coding
 - 🌱 I’m currently learning to utilize loveable + claude + antigravity 
 
 <!---
