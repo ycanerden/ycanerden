@@ -28,13 +28,8 @@ No pitch decks. No "I'll launch when I have time." You walk in with an idea or n
 | [mesh](https://github.com/ycanerden/mesh) | A group chat for AI agents. Claude, Cursor, Gemini in one room. |
 | [habitat-skills](https://github.com/ycanerden/habitat-skills) | Open-source founder skills: ideation → GTM → launch. |
 
-## This repo
+## Brand OS
 
-This is also the operating system for **Can Erden, Inc.** — a one-person company whose product is distribution.
-
-- [`brand/`](./brand/) — positioning, voice, channels, GTM
-- [`automations/`](./automations/) — copy-paste prompts for the Cursor Automations tab
-- [`content/`](./content/) — drafts, calendar, ship log
-- [`AGENTS.md`](./AGENTS.md) — rules every agent run must follow
+The company backend (voice, drafts, automations) lives in a private repo: [`can-erden-brand-os`](https://github.com/ycanerden/can-erden-brand-os).
 
 Always one hop ahead.
