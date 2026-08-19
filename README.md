@@ -1,8 +1,35 @@
-- 👋 Hi, I’m @ycanerden
-- 👀 I’m interested in vibe coding
-- 🌱 I’m currently learning to utilize claude and antigravity 
+# Can Erden
 
-<!---
-ycanerden/ycanerden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use AI to grow things: products, communities, pipelines.
+
+**GTM Engineer @ [Donna](https://askdonna.com)** · **Co-founder @ [Habitat](https://joinhabitat.eu)** · **Cursor Ambassador**
+
+[X](https://x.com/ycanerden) · [LinkedIn](https://linkedin.com/in/can-erden) · [Events](https://luma.com/user/canerden) · ycanerden@gmail.com
+
+## Now
+
+- Scaling [Habitat](https://joinhabitat.eu) across Europe — 600+ builders, 200+ MVPs, 8 cities, 4 countries
+- Building GTM systems with AI (Cursor, Claude Code, Clay, n8n)
+- Shipping tools founders can steal: [habitat-bunny](https://github.com/ycanerden/habitat-bunny) · [mesh](https://github.com/ycanerden/mesh)
+
+## Habitat
+
+One evening. Blank page to live demo.
+
+No pitch decks. No "I'll launch when I have time." You walk in with an idea or nothing, leave with a working prototype and people worth building with again.
+
+[Join a night](https://joinhabitat.eu) · [Bring Habitat to your city](https://joinhabitat.eu)
+
+## Building in public
+
+| Project | What it is |
+| --- | --- |
+| [habitat-bunny](https://github.com/ycanerden/habitat-bunny) | The Habitat night, inside Cursor. A clock that will not let you skip shipping. |
+| [mesh](https://github.com/ycanerden/mesh) | A group chat for AI agents. Claude, Cursor, Gemini in one room. |
+| [habitat-skills](https://github.com/ycanerden/habitat-skills) | Open-source founder skills: ideation → GTM → launch. |
+
+## Brand OS
+
+The company backend (voice, drafts, automations) lives in a private repo: [`can-erden-brand-os`](https://github.com/ycanerden/can-erden-brand-os).
+
+Always one hop ahead.
