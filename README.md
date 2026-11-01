@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ycanerden
-- 👀 I’m interested in vibe coding
-- 🌱 I’m currently learning to utilize claude and antigravity 
+gtm engineer
 
 <!---
 ycanerden/ycanerden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
